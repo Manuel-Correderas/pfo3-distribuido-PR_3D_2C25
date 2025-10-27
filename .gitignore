@@ -1,0 +1,42 @@
+# --- Carpetas de Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos temporales o auto-generados
+*.tmp
+*.bak
+
+# Archivos de configuración local
+.env
+*.env
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos del sistema Windows
+Thumbs.db
+Desktop.ini
+
+# Compresiones y dumps que no son código
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Imágenes y capturas locales (si ya están en el PDF)
+diagrams/*.jpg
+screenshots/*
+
+# Config de Nginx generada localmente
+logs/
