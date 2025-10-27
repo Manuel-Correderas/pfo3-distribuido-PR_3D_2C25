@@ -34,9 +34,7 @@ Desktop.ini
 *.7z
 *.tar.gz
 
-# Imágenes y capturas locales (si ya están en el PDF)
-diagrams/*.jpg
-screenshots/*
+
 
 # Config de Nginx generada localmente
 logs/
